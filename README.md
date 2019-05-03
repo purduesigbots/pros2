@@ -20,9 +20,9 @@ Pay a visit to our website, [pros.cs.purdue.edu](https://pros.cs.purdue.edu), to
 
 ### How do I use it?
 We have a number of resources available on our website, including
-- [A basic tutorial to get you acquainted with the PROS ecosystem](http://pros.cs.purdue.edu/getting-started/)
-- [A series of tutorials on how to use some of the more advanced features of PROS](http://pros.cs.purdue.edu/tutorials/)
-- [Extensive documentation on the kernel's API](http://pros.cs.purdue.edu/api/)
+- [A basic tutorial to get you acquainted with the PROS ecosystem](http://pros.cs.purdue.edu/cortex/getting-started/)
+- [A series of tutorials on how to use some of the more advanced features of PROS](http://pros.cs.purdue.edu/cortex/tutorials/)
+- [Extensive documentation on the kernel's API](http://pros.cs.purdue.edu/cortex/api/)
 
 ### Does PROS support C++?
 No, PROS 2.x does not officially support C++. Some users have found ways around this, but be warned: we will not be able to help if you run into issues doing this.
